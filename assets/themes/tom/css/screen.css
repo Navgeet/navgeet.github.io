@@ -172,6 +172,11 @@ ul.posts {
     padding: 0 .2em;
   }
 
+  #post img {
+    max-width: 100%;
+    height: auto;
+  }
+
     #post pre code {
       border: none;
     }
